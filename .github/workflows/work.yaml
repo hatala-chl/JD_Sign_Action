@@ -8,7 +8,7 @@ on:
   #   branches:
   #     - master
   schedule:
-    - cron: 06 22 * * *
+    - cron: 06 22/4 * * *
   watch:
     types: started
     
